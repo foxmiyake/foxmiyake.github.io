@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅遊 on 狐狸的言葉</title>
+    <link>https://foxmiyake.github.io/categories/%E6%97%85%E9%81%8A/</link>
+    <description>Recent content in 旅遊 on 狐狸的言葉</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 11 Jan 2024 14:54:00 +0800</lastBuildDate>
+    <atom:link href="https://foxmiyake.github.io/categories/%E6%97%85%E9%81%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://foxmiyake.github.io/blog/test/</link>
+      <pubDate>Thu, 11 Jan 2024 14:54:00 +0800</pubDate>
+      <guid>https://foxmiyake.github.io/blog/test/</guid>
+      <description>hello world&#xA;我是Stella&#xA;一級標題 二級標題 六級標題 我是Stella，我喜歡畫畫&#xA;我 我我 我我我我 是 畫畫 圖 語言 Hello</description>
+    </item>
+  </channel>
+</rss>
