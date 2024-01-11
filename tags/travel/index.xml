@@ -6,8 +6,15 @@
     <description>Recent content in Travel on 狐狸的言葉</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 11 Jan 2024 14:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 15:59:00 +0800</lastBuildDate>
     <atom:link href="https://foxmiyake.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第二篇文章</title>
+      <link>https://foxmiyake.github.io/blog/2-post/</link>
+      <pubDate>Thu, 11 Jan 2024 15:59:00 +0800</pubDate>
+      <guid>https://foxmiyake.github.io/blog/2-post/</guid>
+      <description>這是我第二篇文章</description>
+    </item>
     <item>
       <title>第一篇文章</title>
       <link>https://foxmiyake.github.io/blog/test/</link>
